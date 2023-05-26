@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap-icons": "^1.10.3"
+  },
+  "name": "tindog",
+  "description": "TinDog Starting Files",
+  "version": "1.0.0",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himanshu V Chaurasia",
+  "license": "ISC"
+}
